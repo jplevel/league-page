@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>https://coda.io/@jarrod-plevel/playa-haters-ball-fantasy-football</p>
+  <p><a href="https://coda.io/@jarrod-plevel/playa-haters-ball-fantasy-football">CODA STATS</a></p>
 `;
 
 /*   STEP 3   */
