@@ -24,7 +24,7 @@ export const managers = [
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Jarrod",
 //       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "San Luis Obispo", // (optional)
+      "location": "SLO", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -46,7 +46,7 @@ export const managers = [
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Munson",
 //       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-//       "location": "Brooklyn", // (optional)
+      "location": "North COun", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -68,7 +68,7 @@ export const managers = [
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "James",
 //       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-//       "location": "Brooklyn", // (optional)
+      "location": "Los Osos", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -112,7 +112,7 @@ export const managers = [
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "David",
       "tookOver": 2019, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-//       "location": "Brooklyn", // (optional)
+      "location": "Phoenix", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -134,7 +134,7 @@ export const managers = [
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Sameer",
 //       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-//       "location": "Brooklyn", // (optional)
+      "location": "Irvine", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -156,7 +156,7 @@ export const managers = [
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Steve",
 //       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-//       "location": "Brooklyn", // (optional)
+      "location": "Irvine", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -178,7 +178,7 @@ export const managers = [
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Earl",
       "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-//       "location": "Brooklyn", // (optional)
+      "location": "San Luis Obispo", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -200,7 +200,7 @@ export const managers = [
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Hoxter",
 //       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-//       "location": "Brooklyn", // (optional)
+      "location": "Grapevine", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -222,7 +222,7 @@ export const managers = [
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Mikey",
 //       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-//       "location": "Brooklyn", // (optional)
+      "location": "LA", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -244,7 +244,7 @@ export const managers = [
       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Brian",
 //       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-//       "location": "Brooklyn", // (optional)
+      "location": "Del Mar", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -266,7 +266,7 @@ export const managers = [
       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Rob",
       "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-//       "location": "Brooklyn", // (optional)
+      "location": "Nipomo", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
