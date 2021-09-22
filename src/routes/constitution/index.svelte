@@ -102,5 +102,5 @@
 <div class="constitution">
     <h1 class="noUnderscore">PLAYA HATERS BALL LEAGUE CONSTITUTION</h1>
     
-  <iframe src="https://coda.io/d/Playa-Haters-Ball-Fantasy-Football_dNftOtB5hgd/Constitution-of-Playa-Haters-Ball-Fantasy-Football_suRUI#_luTQi" title="Constituion"></frame>
+  <iframe src="https://coda.io/d/Playa-Haters-Ball-Fantasy-Football_dNftOtB5hgd/Constitution-of-Playa-Haters-Ball-Fantasy-Football_suRUI#_luTQi" title="Constituion"></iframe>
 </div>
