@@ -111,7 +111,7 @@ export const managers = [
     {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "David",
-//       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2019, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Brooklyn", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -177,7 +177,7 @@ export const managers = [
     {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Earl",
-//       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Brooklyn", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -265,7 +265,7 @@ export const managers = [
     {
       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Rob",
-//       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Brooklyn", // (optional)
 //       "bio": "Lorem ipsum...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
