@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "724887658920263680"; // your league ID
+export const leagueID = "854969255760859136"; // your league ID
 export const leagueName = "Playa Haters Ball"; // your league name
 export const dues = 300; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
